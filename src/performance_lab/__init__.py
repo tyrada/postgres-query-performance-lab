@@ -1,0 +1,2 @@
+"""PostgreSQL performance lab package."""
+
